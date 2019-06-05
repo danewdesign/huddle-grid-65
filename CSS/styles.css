@@ -124,12 +124,13 @@ body p {
 
   .footer-grid {align-items: center; grid-template-columns: 30% auto auto 35%; justify-content: space-around;}
   .logo-n-contact-container {align-items: center; grid-column: 1 / span 1; margin: 0 0 0 25px; padding: 100px 0;}
+  .logo-n-contact-container p {padding-top: 20px;}
   .img-white-logo {max-width: 50%;}
   .first-links {grid-column: 2 / span 1; margin: 0;}
   .first-links a {width: 100%;}
   .second-links {grid-column: 3 / span 1; margin: 0;}
   .second-links a {width: 100%;}
-  .subscribe-container {grid-column: 4 / span 1; grid-row: 1; margin: 0; padding-left: 50px;}
+  .subscribe-container {grid-column: 4 / span 1; grid-row: 1; margin: 0; padding-left: 50px; padding-bottom: 45px;}
   .email-input {width: 60%;}
   .copyrights {grid-column: 1 / span 4; grid-row: 3;}
 
